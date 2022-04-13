@@ -6,6 +6,6 @@ Just testing html support in markdown
   }
 </style>
 <script>var t = confirm('hello');</script>
-<div id="d1">
+<div style="background-color: red">
   something
 </div>
