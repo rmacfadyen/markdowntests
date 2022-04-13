@@ -1,9 +1,10 @@
 # markdowntests
 Just testing html support in markdown
-<style>
+<styles>
   #d1 {
     background-color: red;
   }
+</styles>
 <div id="d1">
   something
 </div>
