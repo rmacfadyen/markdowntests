@@ -1,10 +1,11 @@
 # markdowntests
 Just testing html support in markdown
-<styles>
+<style>
   #d1 {
     background-color: red;
   }
-</styles>
+</style>
+<script>var t = confirm('hello');</script>
 <div id="d1">
   something
 </div>
