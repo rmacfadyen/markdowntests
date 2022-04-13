@@ -1,11 +1,9 @@
 # markdowntests
 Just testing html support in markdown
-<style>
-  #d1 {
-    background-color: red;
-  }
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
 </style>
-<script>var t = confirm('hello');</script>
-<div style="background-color: red">
-  something
-</div>
+okay
